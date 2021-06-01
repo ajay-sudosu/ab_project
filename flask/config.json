@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root@localhost/kaboom",
+    "prof_uri":"mysql://root@localhost/kaboom",
+    "fb_url": "https://facebook.com/kaboom",
+    "tw_url": "https://twitter.com/kaboom",
+    "gh_url": "https://github.com/kaboom",
+    "blog_name":"Share Blogs with us",
+    "gmail-user":"example.com",
+    "gmail-password": "pass",
+    "about_text": "We are eager to help you at each and every moment of your life.",
+    "no_of_posts":2,
+    "subtitle": "Let's learn languages",
+    "login_image":"login.svg",
+    "admin_user":"admin",
+    "admin_password": "password",
+    "upload_location":"enter the  location where you want to save file"
+
+  }
+}
