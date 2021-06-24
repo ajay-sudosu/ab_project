@@ -9,6 +9,8 @@ from flask_mail import Mail
 with open('config.json','r') as c:
     params=json.load(c)['params']
 
+
+
 local_server=True
 
 app = Flask(__name__)
